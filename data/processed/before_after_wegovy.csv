@@ -1,0 +1,13 @@
+ticker,sector,avg_before_wegovy,avg_after_wegovy,pct_change
+LLY,glp1_makers,133.63,593.68,344.29
+NVO,glp1_makers,26.49,69.68,163.07
+ISRG,surgical,205.0,379.39,85.06
+SPY,benchmark,294.57,498.32,69.17
+MCD,fast_food,175.82,262.45,49.27
+DXCM,diabetes_devices,67.81,98.12,44.71
+YUM,fast_food,89.71,128.12,42.82
+PODD,diabetes_devices,183.98,250.37,36.09
+PEP,food_beverage,109.76,149.18,35.91
+KHC,food_beverage,24.19,28.96,19.69
+PLNT,fitness,68.76,79.69,15.89
+NSRGY,food_beverage,88.92,100.14,12.62

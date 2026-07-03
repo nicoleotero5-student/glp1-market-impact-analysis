@@ -1,0 +1,13 @@
+ticker,sector,avg_price,min_price,max_price
+SPY,benchmark,432.38,204.42,757.62
+DXCM,diabetes_devices,88.31,27.84,162.82
+PODD,diabetes_devices,228.87,72.44,352.82
+MCD,fast_food,234.4,118.61,336.88
+YUM,fast_food,115.68,50.27,167.34
+PLNT,fitness,76.15,27.54,113.55
+KHC,food_beverage,27.42,14.81,35.73
+NSRGY,food_beverage,96.5,65.29,121.04
+PEP,food_beverage,136.42,85.14,175.4
+LLY,glp1_makers,444.73,97.9,1229.93
+NVO,glp1_makers,55.7,19.61,137.4
+ISRG,surgical,322.92,122.58,610.45

@@ -1,0 +1,12 @@
+ticker,sector,stock_pct_change,market_pct_change,relative_to_market
+LLY,glp1_makers,344.29,69.17,275.12
+NVO,glp1_makers,163.07,69.17,93.9
+ISRG,surgical,85.06,69.17,15.89
+MCD,fast_food,49.27,69.17,-19.9
+DXCM,diabetes_devices,44.71,69.17,-24.46
+YUM,fast_food,42.82,69.17,-26.35
+PODD,diabetes_devices,36.09,69.17,-33.08
+PEP,food_beverage,35.91,69.17,-33.26
+KHC,food_beverage,19.69,69.17,-49.48
+PLNT,fitness,15.89,69.17,-53.28
+NSRGY,food_beverage,12.62,69.17,-56.55
