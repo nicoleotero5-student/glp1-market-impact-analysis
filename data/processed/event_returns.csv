@@ -1,0 +1,109 @@
+event,ticker,sector,window,return_pct
+wegovy_approved,DXCM,Diabetes Devices,30d,13.62
+wegovy_approved,ISRG,Surgical,30d,12.12
+wegovy_approved,KHC,Food & Beverage,30d,-10.51
+wegovy_approved,LLY,GLP-1 Makers,30d,15.9
+wegovy_approved,MCD,Fast Food,30d,-1.77
+wegovy_approved,NSRGY,Food & Beverage,30d,0.02
+wegovy_approved,NVO,GLP-1 Makers,30d,9.12
+wegovy_approved,PEP,Food & Beverage,30d,5.38
+wegovy_approved,PLNT,Fitness,30d,-7.94
+wegovy_approved,PODD,Diabetes Devices,30d,-2.52
+wegovy_approved,YUM,Fast Food,30d,-4.48
+wegovy_approved,SPY,Market Benchmark,30d,0.89
+wegovy_approved,DXCM,Diabetes Devices,60d,36.2
+wegovy_approved,ISRG,Surgical,60d,27.36
+wegovy_approved,KHC,Food & Beverage,60d,-17.83
+wegovy_approved,LLY,GLP-1 Makers,60d,30.26
+wegovy_approved,MCD,Fast Food,60d,1.38
+wegovy_approved,NSRGY,Food & Beverage,60d,1.66
+wegovy_approved,NVO,GLP-1 Makers,60d,27.16
+wegovy_approved,PEP,Food & Beverage,60d,5.52
+wegovy_approved,PLNT,Fitness,60d,8.18
+wegovy_approved,PODD,Diabetes Devices,60d,8.94
+wegovy_approved,YUM,Fast Food,60d,10.45
+wegovy_approved,SPY,Market Benchmark,60d,7.36
+wegovy_approved,DXCM,Diabetes Devices,90d,40.62
+wegovy_approved,ISRG,Surgical,90d,17.07
+wegovy_approved,KHC,Food & Beverage,90d,-15.4
+wegovy_approved,LLY,GLP-1 Makers,90d,15.6
+wegovy_approved,MCD,Fast Food,90d,5.35
+wegovy_approved,NSRGY,Food & Beverage,90d,-3.82
+wegovy_approved,NVO,GLP-1 Makers,90d,21.28
+wegovy_approved,PEP,Food & Beverage,90d,6.88
+wegovy_approved,PLNT,Fitness,90d,6.43
+wegovy_approved,PODD,Diabetes Devices,90d,9.44
+wegovy_approved,YUM,Fast Food,90d,3.41
+wegovy_approved,SPY,Market Benchmark,90d,3.27
+mounjaro_approved,DXCM,Diabetes Devices,30d,-10.74
+mounjaro_approved,ISRG,Surgical,30d,-9.7
+mounjaro_approved,KHC,Food & Beverage,30d,-13.95
+mounjaro_approved,LLY,GLP-1 Makers,30d,8.91
+mounjaro_approved,MCD,Fast Food,30d,-0.35
+mounjaro_approved,NSRGY,Food & Beverage,30d,-6.42
+mounjaro_approved,NVO,GLP-1 Makers,30d,2.13
+mounjaro_approved,PEP,Food & Beverage,30d,-4.93
+mounjaro_approved,PLNT,Fitness,30d,-4.15
+mounjaro_approved,PODD,Diabetes Devices,30d,13.64
+mounjaro_approved,YUM,Fast Food,30d,1.07
+mounjaro_approved,SPY,Market Benchmark,30d,-4.84
+mounjaro_approved,DXCM,Diabetes Devices,60d,7.22
+mounjaro_approved,ISRG,Surgical,60d,6.33
+mounjaro_approved,KHC,Food & Beverage,60d,-11.9
+mounjaro_approved,LLY,GLP-1 Makers,60d,4.45
+mounjaro_approved,MCD,Fast Food,60d,7.25
+mounjaro_approved,NSRGY,Food & Beverage,60d,-0.96
+mounjaro_approved,NVO,GLP-1 Makers,60d,1.39
+mounjaro_approved,PEP,Food & Beverage,60d,1.98
+mounjaro_approved,PLNT,Fitness,60d,6.23
+mounjaro_approved,PODD,Diabetes Devices,60d,31.86
+mounjaro_approved,YUM,Fast Food,60d,6.15
+mounjaro_approved,SPY,Market Benchmark,60d,5.0
+mounjaro_approved,DXCM,Diabetes Devices,90d,-3.26
+mounjaro_approved,ISRG,Surgical,90d,-14.58
+mounjaro_approved,KHC,Food & Beverage,90d,-21.05
+mounjaro_approved,LLY,GLP-1 Makers,90d,6.95
+mounjaro_approved,MCD,Fast Food,90d,2.3
+mounjaro_approved,NSRGY,Food & Beverage,90d,-10.58
+mounjaro_approved,NVO,GLP-1 Makers,90d,-6.79
+mounjaro_approved,PEP,Food & Beverage,90d,-1.62
+mounjaro_approved,PLNT,Fitness,90d,-20.83
+mounjaro_approved,PODD,Diabetes Devices,90d,21.19
+mounjaro_approved,YUM,Fast Food,90d,-0.84
+mounjaro_approved,SPY,Market Benchmark,90d,-6.06
+zepbound_approved,DXCM,Diabetes Devices,30d,32.38
+zepbound_approved,ISRG,Surgical,30d,19.98
+zepbound_approved,KHC,Food & Beverage,30d,9.66
+zepbound_approved,LLY,GLP-1 Makers,30d,-7.44
+zepbound_approved,MCD,Fast Food,30d,9.59
+zepbound_approved,NSRGY,Food & Beverage,30d,3.16
+zepbound_approved,NVO,GLP-1 Makers,30d,1.69
+zepbound_approved,PEP,Food & Beverage,30d,0.51
+zepbound_approved,PLNT,Fitness,30d,17.97
+zepbound_approved,PODD,Diabetes Devices,30d,41.3
+zepbound_approved,YUM,Fast Food,30d,3.97
+zepbound_approved,SPY,Market Benchmark,30d,8.55
+zepbound_approved,DXCM,Diabetes Devices,60d,34.67
+zepbound_approved,ISRG,Surgical,60d,40.21
+zepbound_approved,KHC,Food & Beverage,60d,13.47
+zepbound_approved,LLY,GLP-1 Makers,60d,14.08
+zepbound_approved,MCD,Fast Food,60d,7.05
+zepbound_approved,NSRGY,Food & Beverage,60d,4.13
+zepbound_approved,NVO,GLP-1 Makers,60d,15.58
+zepbound_approved,PEP,Food & Beverage,60d,3.19
+zepbound_approved,PLNT,Fitness,60d,12.51
+zepbound_approved,PODD,Diabetes Devices,60d,28.82
+zepbound_approved,YUM,Fast Food,60d,1.8
+zepbound_approved,SPY,Market Benchmark,60d,13.43
+zepbound_approved,DXCM,Diabetes Devices,90d,42.87
+zepbound_approved,ISRG,Surgical,90d,40.46
+zepbound_approved,KHC,Food & Beverage,90d,9.04
+zepbound_approved,LLY,GLP-1 Makers,90d,25.28
+zepbound_approved,MCD,Fast Food,90d,7.59
+zepbound_approved,NSRGY,Food & Beverage,90d,-3.09
+zepbound_approved,NVO,GLP-1 Makers,90d,28.11
+zepbound_approved,PEP,Food & Beverage,90d,4.24
+zepbound_approved,PLNT,Fitness,90d,-7.54
+zepbound_approved,PODD,Diabetes Devices,90d,7.89
+zepbound_approved,YUM,Fast Food,90d,9.74
+zepbound_approved,SPY,Market Benchmark,90d,19.89
