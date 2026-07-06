@@ -1,0 +1,6 @@
+ticker,earliest_rev_bn,latest_rev_bn,revenue_growth_pct,stock_price_growth_pct,gap,verdict
+LLY,12.73,19.8,55.5,518.4,462.9,Overvalued signal
+NVO,78.09,96.82,24.0,34.1,10.1,Fairly priced signal
+KHC,6.0,6.05,0.8,-27.1,-27.9,Fairly priced signal
+DXCM,1.04,1.19,15.0,-28.1,-43.1,Fairly priced signal
+ISRG,2.25,2.77,23.0,45.2,22.2,Fairly priced signal
